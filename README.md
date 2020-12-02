@@ -17,5 +17,5 @@ You should save the robotics.py module in your working directory.  Once saved, y
 statement: *import robotics*.  For more concise code, I would use *import robotics as robo*. 
 
 ## Dependencies
-The functions within robotics.py rely on numpy version 1.18.5 and matplotlib version 3.2.2.  If you are using newer versions of 
+The functions within robotics.py rely on *numpy version 1.18.5* and *matplotlib version 3.2.2*.  If you are using newer versions of 
 these libraries, the functions may not work.  
