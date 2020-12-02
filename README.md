@@ -13,7 +13,7 @@ Path Following: Pursuit & Maneuvers<br/>
 Area Coverage**
 
 ## How to use
-You should save the robotics.py module in your working directory.  Once saved, you can import the module by using a simple import
+You should save the robotics.py module in your current working directory.  Once saved, you can import the module by using a simple import
 statement: *import robotics*.  For more concise code, I would use *import robotics as robo*. 
 
 ## Dependencies
