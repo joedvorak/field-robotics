@@ -4,7 +4,7 @@ BAE 599: Field Robotics Fall 2020 - University of Kentucky
 ## Description
 This repository was created to house the robotics.py module.  This module contains all the major functions that were developed and 
 used during the Fall 2020 semester of BAE: 599 Field Robotics.  These functions are a good start to any mobile robotics coding that
-you plan on doing.  The functions are categorized into multiple uses:<br/>
+you plan on doing.  The functions are categorized into multiple areas:<br/>
 **Position & Frame Transformation <br/>
 Differential Steer<br/>
 Ackermann Steer<br/>
