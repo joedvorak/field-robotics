@@ -9,7 +9,7 @@ you plan on doing.  The functions are categorized into multiple uses:<br/>
 Differential Steer<br/>
 Ackermann Steer<br/>
 Move to Point & Pose<br/>
-Path Following: Pursuit & Maneuvers<br/>
+Path Following: Pure Pursuit & Maneuvers<br/>
 Area Coverage**
 
 ## How to use
