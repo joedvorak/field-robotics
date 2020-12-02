@@ -18,4 +18,4 @@ statement: *import robotics*.  For more concise code, I would use *import roboti
 
 ## Dependencies
 The functions within robotics.py rely on numpy version 1.18.5 and matplotlib version 3.2.2.  If you are using newer versions of 
-these libraries, then the functions may not work.  
+these libraries, the functions may not work.  
