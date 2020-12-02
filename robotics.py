@@ -534,7 +534,7 @@ def moveToPointConstV(current_x, current_y, current_angle,
     return newSteer
 
 '''
-Path Following: Pure Pursuit & Manuvers
+Path Following: Pure Pursuit & Maneuvers
 ==================================================================================
 '''
 
